@@ -28,7 +28,15 @@ Here are some ideas to get you started:
 <br><br>
 
 - :school: I am a `Programming Technician` graduated from a Technical School.
-- :student: I’m currently learning `System Enginering` at my College.
-- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently studying `System Enginering` at my College.
+- :technologist: I love using Software as a solution for every Problem.
 - :clock4: I like playing videogames, listening music, doing physical exercise and learning new things:nerd_face:.
 <br>
+
+<h2>Some of my Projects 🎨</h2>
+<h3>School Projects:</h3>
+<Br>
+  
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)-->
+
+<Br>
