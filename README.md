@@ -34,10 +34,21 @@ Here are some ideas to get you started:
 - :clock4: About my hobbies? I like playing videogames, listening music, doing physical exercise and learning new things:nerd_face:.
 <br>
 
-<h2>Some of my Projects 🎨</h2>
-<h3>School Projects:</h3>
+<h2>Experience</h2>
+<h3>College Projects 🎨:</h3>
+<p>Nothing yet</p>
 <Br>
-  
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)-->
 
+<h3>School Projects 🎨:</h3>
+<p>During my time in high school (or the technical school too), I've made lots of software proyects, but the most important and complex ones are:</p>
 <Br>
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)-->
+<Br>
+<h2>Technologies used in these projects:</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,php,py,visualstudio,dotnet,css,html,js,mysql,firebase,github,react,bootstrap,&perline=12" />
+  </a>
+</p>
+<br>
