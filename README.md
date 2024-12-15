@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,php,py,visualstudio,dotnet,css,html,js,mysql,firebase,github,react,bootstrap,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php,mysql,firebase,unity,cs,py,github,visualstudio,vscode&perline=12" />
   </a>
 </p>
 <br>
