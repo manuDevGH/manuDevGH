@@ -40,9 +40,15 @@ Here are some ideas to get you started:
 <Br>
 
 <h3>School Projects 🎨:</h3>
-<p>During my time in high school (or the technical school too), I've made lots of software proyects, but the most important and complex ones are:</p>
+<p>WARNING!!!: All these projects, their code and documentation, are in spanish. I explain them in english in the descrption, but all the rest is in spanish. With that said, during my time in high school (or the technical school too), I've made lots of software proyects, but the most important and complex ones are:</p>
 <Br>
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)-->
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)-->
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)-->
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)-->
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)-->
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)-->
+
 <Br>
 <h2>Technologies used in these projects:</h2>
 <!--tech stack icons-->
