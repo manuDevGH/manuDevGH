@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - :school: I am a `Programming Technician` graduated from a Technical School.
 - :student: I’m currently studying `System Enginering` at my College.
 - :earth_americas: I’m a `native spanish speaker`, but also I have an advanced level at `english (B2+ and still learning)`.
-- :technologist: I love using Software as a solution for every Problem.
+<!-- - :technologist: I love using Software as a solution for every Problem.-->
 - :clock4: About my hobbies? I like playing videogames, listening music, doing physical exercise and learning new things:nerd_face:.
 <br>
 
